@@ -4,7 +4,7 @@ import ImageKit from 'imagekit-javascript';
 import SmartMedia from './smart/SmartMedia.vue';
 
 const imageKitSDK = new ImageKit({
-  urlEndpoint: 'https://ik.imagekit.io/devlos',
+  urlEndpoint: 'https://ik.imagekit.io/devlos/andariego',
 });
 
 const props = defineProps({
