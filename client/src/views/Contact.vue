@@ -56,7 +56,7 @@ async function submitForm() {
   <div>
     <div class="mx-auto flex max-w-3xl flex-col items-center justify-center gap-4 px-2">
       <MediaKit
-        src="/contact/card.jpg"
+        src="/card.webp"
         class="h-full w-full"
         alt="Contact Card"
         :width="1900"

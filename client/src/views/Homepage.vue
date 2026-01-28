@@ -36,7 +36,7 @@ watch(locationId, () => {
       class="flex h-[250px] w-full items-stretch justify-center overflow-hidden md:mx-auto md:h-[400px] md:max-w-5xl"
     >
       <MediaKit
-        src="/misc/demo.mp4"
+        src="/demo.mp4"
         class="w-full object-cover object-center"
         :width="576"
         :height="1024"
@@ -51,7 +51,7 @@ watch(locationId, () => {
 
     <div class="relative">
       <MediaKit
-        src="/misc/andriego.jpg"
+        src="/andriego.jpg"
         class="logo-position border-accent rounded-xl border shadow-xl"
         :width="100"
         :height="100"
